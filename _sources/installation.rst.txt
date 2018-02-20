@@ -1,0 +1,69 @@
+Installation
+############
+
+Node.js
+*******
+
+Check version
+=============
+
+.. code-block:: shell
+
+    node -v
+
+.. note:: Must be higher than ``6.9.0``.
+
+npm
+***
+
+Installation
+============
+
+.. code-block:: shell
+
+    npm install npm@latest -g
+
+Check version
+=============
+
+.. code-block:: shell
+
+    npm -v
+
+.. note:: Must be higher than ``3.0.0``.
+
+TypeScript
+**********
+
+Installation
+============
+
+.. code-block:: shell
+
+    npm install -g typescript
+
+Check version
+=============
+
+.. code-block:: shell
+
+    npm info typescript version
+
+.. note:: Must be higher than ``2.1``.
+
+Angular CLI
+***********
+
+Installation
+============
+
+.. code-block:: shell
+
+    npm install -g @angular/cli@1.0.0
+
+Check version
+=============
+
+.. code-block:: shell
+
+    ng -v

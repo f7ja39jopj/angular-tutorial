@@ -1,0 +1,29 @@
+Angular CLI
+###########
+
+Commands
+********
+
+Create project
+==============
+
+.. code-block:: shell
+
+    ng new --ng4 angular-hello-world
+
+Run project
+===========
+
+.. code-block:: shell
+
+    ng serve
+
+Open link: http://localhost:4200
+
+
+Create component
+================
+
+.. code-block:: shell
+
+    ng generate component hello-world
